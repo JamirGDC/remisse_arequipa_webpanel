@@ -1,7 +1,7 @@
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:remisseaqpweb/dashboard/side_navigation_drawer.dart';
-import 'firebase_options.dart'; // Asegúrate de importar este archivo
+import 'firebase_options.dart'; 
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
